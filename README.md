@@ -46,8 +46,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 2.Como Utilizar <br>
 Para utilizar o projeto, basta clonar o repositório em sua máquina local e abrir o arquivo index.html em seu navegador de preferência.
 <div align="center">
-  <img alt="tela das historias de usuarios" src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/761a4896-3f9f-4960-b3a9-998079c010e9"/><br>
-  Tela 1: Tela Inicial.
+  <img alt="tela das historias de usuarios"width="550"  src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/761a4896-3f9f-4960-b3a9-998079c010e9"/><br>
+  Tela : Inicial.<br>
+    <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/0c1211d5-10d1-4b61-a7a6-7ef8044d2d6d"/><br>
+  Tela : FAQ.<br>
+    <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/a82aaf68-7514-4f30-83ca-40bf12591a76"/><br>
+  Tela :Fotos dos Animais.<br>
+    <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/2e5e0bbc-6fa7-4af3-af8c-9ca70e8263f0"/><br>
+  Tela : Número de animais.<br>
+     <img alt="tela das historias de usuarios" width="550" src="https://github.com/patriciadania/animais-fantasticos/assets/120285942/c092008c-989c-4132-9cc2-6034b4a5b10b"/><br>
+  Tela : Contatos.<br>
 
 </div>
 
